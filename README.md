@@ -4,8 +4,8 @@ Desenvolvedor Full Stack Júnior, focado na criação de soluções robustas e e
 
 ## 🚀 Como eu trabalho e o que entrego
 
-- 🏢 Atuando na **Tiger Tecnologia**, colaborando com times de desenvolvimento e Tech Leads em projetos de nível empresarial.
-- ⚙️ **Backend:** Construção de APIs RESTful robustas com **Java e Spring Boot**, aplicando conceitos de OOP, tratamento padronizado de exceções e integrações com bancos NoSQL (MongoDB).
+- 🏢 Atuando numa empresa de Tecnologia, colaborando com times de desenvolvimento e Tech Leads em projetos de nível empresarial.
+- ⚙️ **Backend:** Desenvolvimento de APIs RESTful robustas com **Java e Spring Boot**, aplicando conceitos de POO, tratamento padronizado de exceções e integrações com bancos NoSQL (MongoDB).
 - 🎨 **Frontend:** Criação de interfaces responsivas e gerenciamento de estado global utilizando **React, TypeScript, Vite e Tailwind CSS**.
 - 🧪 **Qualidade e Testes:** Forte atuação na criação de coleções de testes automatizados voltados para dados e asserções utilizando **Postman** (módulos de Autenticação, Veículos, Incidentes).
 - 🚀 **DevOps & Deploy:** Experiência na configuração de variáveis de ambiente e fluxos de implantação, priorizando plataformas como **Vercel**.
